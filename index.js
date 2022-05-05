@@ -14,6 +14,8 @@ myRL.init();
 myRL.setCompletion(['start', 'stop', 'set', 'update', 'exit']);
 myRL.setPrompt('> ');
 
+console.log('DiscordMobilePlayingCLI ready');
+
 let isStarted = false;
 let currentPackageName;
 let refreshInterval;
