@@ -4,6 +4,14 @@ Discord currently only supports game activity on a mobile platform using Samsung
 
 ![Discord Preview](https://user-images.githubusercontent.com/84713269/166914540-d2a4edac-1f33-43ed-a860-4bded04029b5.png)
 
+## 🔧 Installation
+
+Prerequisites: Git, Node.js and the package manager npm/yarn or others.
+
+1. Clone this repository ``git clone https://github.com/YuzuZensai/DiscordMobilePlayingCLI.git``
+2. Install dependencies with ``yarn`` for yarn, or ``npm install`` for npm
+3. Run the script ``yarn start`` or ``npm start``
+
 ## 🌸 Commands
 
 - ``set [BUNDLE_ID]`` Set application bundle id
