@@ -1,4 +1,4 @@
-# DiscordMobilePlayingCLI
+# 🏠 DiscordMobilePlayingCLI
 
 Discord currently only supports game activity on a mobile platform using Samsung Game Launcher, which is only available on Samsung devices.
 
