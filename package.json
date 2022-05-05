@@ -8,5 +8,8 @@
     "axios": "^0.27.2",
     "dotenv": "^16.0.0",
     "serverline": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
