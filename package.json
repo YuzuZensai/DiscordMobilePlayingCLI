@@ -1,0 +1,12 @@
+{
+  "name": "discordmobileplayingcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuzu <contact@kirameki.pink>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "serverline": "^1.6.0"
+  }
+}
