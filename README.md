@@ -17,6 +17,10 @@ DiscordMobilePlayingCLI is only a PoC that game activities can be implemented on
 2. Install dependencies with ``yarn`` for yarn, or ``npm install`` for npm
 3. Run the script ``yarn start`` or ``npm start``
 
+## 🌳 Environment Variables
+
+- ``token`` Your Discord account token
+
 ## 🌸 Commands
 
 - ``set [BUNDLE_ID]`` Set application bundle id
