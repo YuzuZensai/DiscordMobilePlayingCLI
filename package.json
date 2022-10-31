@@ -2,7 +2,7 @@
   "name": "discordmobileplayingcli",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Yuzu <contact@kirameki.pink>",
+  "author": "Yuzu <yuzu@kirameki.cafe>",
   "license": "GPL-3.0",
   "dependencies": {
     "axios": "^0.27.2",
